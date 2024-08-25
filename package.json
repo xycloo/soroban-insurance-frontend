@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@creit.tech/stellar-wallets-kit": "^0.8.1",
     "@stellar/stellar-sdk": "^12.2.0",
     "flowbite-react": "^0.10.1",
     "next": "14.2.6",
